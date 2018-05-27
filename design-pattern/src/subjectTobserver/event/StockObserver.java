@@ -6,10 +6,10 @@ import java.util.Date;
 
 /**
  * @Author: wujiapeng
- * @Description:
+ * @Description: 去除观察者接口，进一步解耦
  * @Date: created in 22:36 2018/5/22
  */
-public class StockObserver implements Observer {
+public class StockObserver {
     private String id;
 
     private String name;
