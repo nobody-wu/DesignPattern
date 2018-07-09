@@ -7,7 +7,6 @@ package facade;
  */
 public class Main {
 
-
     /**
      * 其实外观模式，与mvc分层思想类似的，把内部功能进行封装，对外只是暴露其中的接口，减少之间的依赖。
      *
