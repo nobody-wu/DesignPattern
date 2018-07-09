@@ -2,7 +2,7 @@ package simplefactory;
 
 /**
  * @Author: wujiapeng
- * @Description: 坏代码
+ * @Description: 坏味道代码(错误示例)
  * @Date: created in 17:26 2018/7/6
  */
 public class BadCode {
