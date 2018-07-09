@@ -16,6 +16,8 @@ public class Main {
      *
      * 策略模式里面就包含了这些思想，其实搞懂策略，这些也就没有什么问题了
      *
+     * ps: 抽象工厂模式跟工厂方法模式很类似，区别在于抽象工程模式更"抽象"，只有接口相互依赖，而不是直接new AddOperationFactory;
+     *
      * @param args
      */
     public static void main(String[] args) {
