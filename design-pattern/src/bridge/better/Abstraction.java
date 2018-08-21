@@ -13,6 +13,6 @@ public abstract class Abstraction {
         this.implementor = implementor;
     }
 
-    public void operation(){}
+    public abstract void operation();
 
 }
